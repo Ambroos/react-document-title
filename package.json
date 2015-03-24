@@ -1,10 +1,10 @@
 {
   "name": "react-document-title",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A declarative, nested, stateful document.title for React",
   "main": "index.js",
   "peerDependencies": {
-    "react": ">=0.11.0 || >=0.13.0-beta.1"
+    "react": ">=0.11.0 || >=0.13.x"
   },
   "scripts": {
     "test": "mocha",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaearon/react-document-title.git"
+    "url": "https://github.com/Ambroos/react-document-title.git"
   },
   "keywords": [
     "react",
@@ -25,15 +25,15 @@
   "author": "Dan Abramov <dan.abramov@me.com> (http://github.com/gaearon)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gaearon/react-document-title/issues"
+    "url": "https://github.com/Ambroos/react-document-title/issues"
   },
-  "homepage": "https://github.com/gaearon/react-document-title",
+  "homepage": "https://github.com/Ambroos/react-document-title",
   "devDependencies": {
     "expect.js": "^0.3.1",
     "global": "^4.3.0",
     "jshint": "^2.5.6",
     "mocha": "^2.0.1",
-    "react": "^0.13.0-beta.1"
+    "react": "^0.13.0"
   },
   "dependencies": {
     "react-side-effect": "~0.3.0"
